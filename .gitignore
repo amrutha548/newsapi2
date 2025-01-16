@@ -21,7 +21,6 @@ Dockerfile
 # Ignore specific files
 all
 altItask
-consumer.py
 ec2
 image.png
 kafka.zip
@@ -30,7 +29,6 @@ newapi.py
 note
 pipeline.jpeg
 processed_data.txt
-producer.py
 s3.py
 s3bucket.py
 sen.py
