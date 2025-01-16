@@ -1,0 +1,42 @@
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environment directories
+__venv/
+venv/
+
+# Ignore Docker files
+docker2
+Dockerfile
+
+# Ignore large binary files
+*.zip
+*.jpg
+*.jpeg
+*.png
+
+# Ignore specific files
+all
+altItask
+consumer.py
+ec2
+image.png
+kafka.zip
+lambdas_function.zip
+newapi.py
+note
+pipeline.jpeg
+processed_data.txt
+producer.py
+s3.py
+s3bucket.py
+sen.py
+spark-3.5.1-bin-hadoop3.tgz
+spark-3.5.1-bin-hadoop3.tgz.part
+spark_streaming_script.py
+streaming.py
+test_postgresql_connection.py
+dYp4dHs
